@@ -1,0 +1,4 @@
+User-agent: *
+User-agent: Exabot
+Disallow: /temp
+Crawl-Delay: 30
