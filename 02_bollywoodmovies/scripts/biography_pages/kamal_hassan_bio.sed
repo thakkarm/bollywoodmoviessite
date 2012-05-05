@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Kamal Hassan|g
+s|TAG_META_KEYWORDS|Kamal Hassan|g
+s|TAG_META_DESCRIPTION|Kamal Hassan|g
+#
+s|TAG_BIOGRAPHY_1|<b>Kamal Hassan</b> was born on November 7, 1954 in Paramakudi, India.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|Kamal is an Indian film actor and director. He is known for is award winning performances. Kamal made his film debut when he was just 6 years old in Kalathur Kannamma(1960).|g
+#
+s|TAG_BIO_LATEST_NEWS|<b>Trisha Krishnan Going From Kollywood To Bollywood?</b> <br> Date: <A ALT="" TITLE="Trisha Krishnan Going From Kollywood To Bollywood?" HREF="http://www.bollywoodmovies.us/news/2009/06_08_2009.html">06/13/2009</A>: <br> One of the top actress of Kollywood (Tamil Film), <A ALT="" TITLE="Trisha Krishnan" HREF="http://www.bollywoodmovies.us/actress/trisha_krishnan/bollywood_trisha_krishnan.html">Trisha Krishnan</A> has been signed by director Priyadarshan to play a role opposite Bollywood's <A ALT="" TITLE="Akshay Kumar" HREF="http://www.bollywoodmovies.us/actor/akshay_kumar/bollywood_akshay_kumar.html">Akshay Kumar</A> in movie <A ALT="" TITLE="Khatta Meeta Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2009/khatta_meeta.html">Khatta Meeta (2009)</A> . The director had introduced Trisha seven years ago to the <A ALT="" TITLE="Kollywood Movies" HREF="http://www.bollywoodmovies.us/kollywood/kollywood.html">Kollywood</A> in movie Lesa Lesa in Tamil. The movie is schedule to start shooting in November 2009. Trisha has already worked with the best in the business like <A ALT="" TITLE="Rajnikanth" HREF="http://www.bollywoodmovies.us/kollywood/actor/rajnikanth/kollywood_rajnikanth.html">Rajnikanth</A> , <A ALT="" TITLE="Kamal Hassan" HREF="http://www.bollywoodmovies.us/actor/kamal_hassan/bollywood_kamal_hassan.html">Kamal Hassan</A> megastar Chiranjeevi.|g

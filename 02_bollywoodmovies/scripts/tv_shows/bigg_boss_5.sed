@@ -1,0 +1,15 @@
+s|TAG_META_TITLE|TV Show, Bigg Boss 5|g
+s|TAG_META_KEYWORDS|TV Show, Bigg Boss 5|g
+s|TAG_META_DESCRIPTION|We provided the latest information on TV Show, Bigg Boss 5.|g
+#
+s|TAG_INFO_CATEGORY|TV_Bigg_Boss|g
+#
+s|TAG_TITLE_NAME|TV Show, Bigg Boss 5|g
+#
+s|TAG_MAIN_INFO_1|<!-- TAG_MAIN_INFO_1_START -->  <!-- TAG_MAIN_INFO_1_END -->|g
+#
+s|TAG_MAIN_INFO_2| <!-- TAG_MAIN_INFO_2_START --> <!-- TAG_MAIN_INFO_2_END -->  |g
+#
+s|TAG_LATEST_NEWS|<!-- STORY_START --> <TR VALIGN="top"> <TD WIDTH=15% BORDER="1" BORDERCOLOR="orange"> <A HREF="http://www.bollywoodmovies.us/actor/salman_khan/bollywood_salman_khan_photo_gallery_01.html"> <IMG SRC="http://www.bollywoodmovies.us/actor/salman_khan/pics/salman_khan_01.jpg" ALT="Salman Khan" TITLE="Salman Khan" WIDTH="100" HEIGHT="100" BORDER="0"> </A> </TD> <TD WIDTH=75% BORDER="1" BORDERCOLOR="green"> <b>Salman Khan And Sanjay Dutt To Host Bigg Boss 5</b> <br> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"> Date: <A ALT="" TITLE="Salman Khan And Sanjay Dutt To Host Bigg Boss 5" HREF="http://www.bollywoodmovies.us/news/2011/09_26_2011.html">10/01/2011</A>: </font> <br> <A ALT="" TITLE="Bigg Boss 5" HREF="http://www.bollywoodmovies.us/tv_shows/bigg_boss/bigg_boss_5.html">Bigg Boss 5</A> will be hosted by <A ALT="" TITLE="Salman Khan" HREF="http://www.bollywoodmovies.us/actor/salman_khan/bollywood_salman_khan.html">Salman Khan</A> and <A ALT="" TITLE="Sanjay Dutt" HREF="http://www.bollywoodmovies.us/actor/sanjay_dutt/bollywood_sanjay_dutt.html">Sanjay Dutt</A> . The show will air on Colors from 2 October 2011 to 7 January 2012. The contestants for season 5 will be: <BR> Vida Samdajai a former winner of the Miss Afghanistan beauty contest.<BR> Laxmi Narayan Tripathi is a celebrity transgender and social activist.<BR> Nihita Biswas is the wife of smuggler and serial killer Charles Sobhraj.<BR> Mahek Chahal actress who was last seen in the films Wanted and in an item song in Yamla Pagla Deewana.<BR> Shonali Nagrani is a model and an actress.<BR> Pooja Mishra a model, VJ, film actress and a socialite.<BR> Juhi Parmar is best known for her role as the title character Kumkum in the popular TV serial.<BR> Actor Shakti Kapoor.<BR> Raageshwari Loomba a singer, actor and a VJ.<BR> Pooja Bedi model and actress.<BR> Mandeep Belvi an anchor with Headlines Today.<BR> Gulabi Sapera is famous as Gulabo the Kalbeliya dancer from Rajasthan.<BR> Sonika Kaliraman a wrestler who had earlier participated in Kathron Ki Khiladi Season 2.<BR> Actress Shraddha Sharma.<BR> Along with the following who will enter the house at a later dates: Shakira a Latin songstress will stay in the Bigg Boss house for five days.<BR> Jonty Rhodes former South African cricketer will enter house at later date.<BR> Mike Tyson, former world heavyweight boxing champion will also enter the house at a later date.<BR> The Bigg Boss house is built in Karjat, 90 km from Mumbai at ND Studio. <hr size="1" width="100%"> </TD> </TR> <!-- STORY_END -->|g
+#
+s|TAG_GOOGLE_ADLINKS|9774778087|g

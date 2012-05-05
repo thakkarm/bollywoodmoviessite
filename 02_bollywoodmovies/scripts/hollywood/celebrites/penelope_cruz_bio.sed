@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Penelope Cruz|g
+s|TAG_META_KEYWORDS|penelope cruz, hollywood, spanish, actress, celebrity|g
+s|TAG_META_DESCRIPTION|penelope cruz|g
+#
+s|TAG_BIOGRAPHY_1|<b>Penelope Cruz</b> was born April 28, 1974, in Madrid, Spain.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|She is a Spanish actress. <BR>In 2008 she was ranked num 26 on the AskMen.com Top 99 Women list. <BR> In 2007 she was ranked num 36 on the AskMen.com Top 99 Women list.|g
+#
+s|TAG_BIO_LATEST_NEWS|<b>Aishwarya Rai Bachchan And Sonam Kapoor To Walk On Red Carpet Cannes</b> <br> Date: <A ALT="" TITLE="Aishwarya Rai Bachchan And Sonam Kapoor To Walk On Red Carpet Cannes" HREF="http://www.bollywoodmovies.us/news/2009/05_11_2009.html">05/12/2009</A>: <br> <A ALT="" TITLE="Sonam Kapoor" HREF="http://www.bollywoodmovies.us/actress/sonam_kapoor/bollywood_sonam_kapoor.html">Sonam Kapoor</A> will walk the red carpet at the Cannes film international film festival along side <A ALT="" TITLE="Aishwarya Rai (Aishwarya Bachchan)" HREF="http://www.bollywoodmovies.us/actress/aishwarya_rai/bollywood_aishwarya_rai.html">Aishwarya Rai Bachchan</A> , Hollywood beauties <A ALT="" TITLE="Penelope Cruz" HREF="http://www.bollywoodmovies.us/hollywood/celebrites/penelope_cruz/celebrites_penelope_cruz.html">Penelope Cruz</A> and <A ALT="" TITLE="Eva Longoria Parker" HREF="http://www.bollywoodmovies.us/hollywood/actress/eva_longoria/hollywood_eva_longoria.html">Eva Longoria</A> as the face of a major international cosmetic giant. Sonam will be joined by her dad <A ALT="" TITLE="Anil Kapoor" HREF="http://www.bollywoodmovies.us/actor/anil_kapoor/bollywood_anil_kapoor.html">Anil Kapoor</A> , who is basking in the sun from the the Oscars and Golden Globes winning movie <A ALT="" TITLE="Slumdog Millionaire (Crorepati) Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2008/slumdog_millionaire.html">Slumdog Millionaire (Crorepati) (2008)</A> .|g

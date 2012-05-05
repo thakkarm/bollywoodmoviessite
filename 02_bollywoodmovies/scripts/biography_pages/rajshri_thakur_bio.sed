@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Rajshri Thakur|g
+s|TAG_META_KEYWORDS|Rajshri Thakur, Rajshree Thakur, |g
+s|TAG_META_DESCRIPTION|Rajshri Thakur, Rajshree Thakur|g
+#
+s|TAG_BIOGRAPHY_1|<b>Rajshri Thakur (Rajshree Thakur)</b> was born on September 22, 1981 in <A ALT="" TITLE="Maharashtra Mumbai" HREF="http://www.bollywoodmovies.us/Regional/India/Maharashtra/Mumbai/Mumbai.html">Mumbai</A>, India.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|Rajshri is an Indian TV actress who is best known for her role as Saloni on Hindi TV show <A ALT="" TITLE="Saat Phere Saloni Ka Safar" HREF="http://www.bollywoodmovies.us/tv_shows/saat_phere_saloni_ka_safar/saat_phere_saloni_ka_safar.html">Saat Phere Saloni Ka Safar</A>. She also acted in a Indo French film, Hava Aney Dey which later got her selected for the role of Saloni. Rajshree won the Best Fresh Face of the Year Female 2006 award at the Sixth Indian Telly Awards.|g
+#
+s|TAG_BIO_LATEST_NEWS|<A HREF="http://www.bollywoodmovies.us/actress/rajshri_thakur/bollywood_rajshri_thakur_photo_gallery_01.html"> <IMG SRC="http://www.bollywoodmovies.us/actress/rajshri_thakur/pics/rajshri_thakur_01.jpg" ALT="Rajshri Thakur, Rajshree Thakur" TITLE="Rajshri Thakur, Rajshree Thakur" WIDTH="100" HEIGHT="100" BORDER="0"> </A> <BR> <A ALT="" TITLE="Rajshri Thakur Saat Phere Saloni Ka Safar" HREF="http://www.bollywoodmovies.us/news/2008/05_26_2008.html">05/30/2008</A>: <br> The dusky TV actress <A ALT="" TITLE="Rajshri Thakur, Rajshree Thakur" HREF="http://www.bollywoodmovies.us/actress/rajshri_thakur/bollywood_rajshri_thakur.html">Rajshri Thakur</A> of Hindi Zee TV show <A ALT="" TITLE="Saat Phere Saloni Ka Safar" HREF="http://www.bollywoodmovies.us/tv_shows/saat_phere_saloni_ka_safar/saat_phere_saloni_ka_safar.html">Saat Phere</A> has been signed to host a new Zee TV reality show Ek Se Badhkar Ek. Rajshree will also appear on NDTV Imagine’s Kudiyon Ka Hai Zamana.|g

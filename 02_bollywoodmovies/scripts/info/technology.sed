@@ -1,0 +1,11 @@
+s|TAG_META_TITLE|Technology, |g
+s|TAG_META_KEYWORDS|Technology, |g
+s|TAG_META_DESCRIPTION|Provide information and resources for Technology.|g
+#
+s|TAG_INFO_CATEGORY|Technology|g
+#
+s|TAG_TITLE_NAME|Information and Resouces for Technology.|g
+#
+s|TAG_MAIN_INFO_1||g
+#
+s|TAG_LATEST_NEWS|<table> <!-- MONEY_NEWS_STORY_START --> <tr HEIGHT=30 bgcolor="white"> <td WIDTH=100% VALIGN="center" align="left" valign="center"> <A ALT="" TITLE="Apple iPod Shuffle" HREF="http://www.bollywoodmovies.us/news/2009/03_09_2009.html">03/11/2009</A>: <br> Apple today announced the availability of a new <A ALT="" TITLE="Apple iPod Shuffle" HREF="http://www.bollywoodmovies.us/info/technology.html">iPod Shuffle</A> . It has been redesigned and provides more capability and functionality. It's half the size of the last generation but with twice the capacity, the latest Shuffle provides a way of letting you know what track you're listening to: It talks. It's available now for $79, the new Shuffle is billed as the "world's smallest music player," and indeed, it looks tiny just 1.8 by 0.7 by 0.3 inches, a little smaller than a AA battery. It also comes with new in line remote on the earphone cord, from which you can adjust the volume, pause and skip tracks. This also is its drawback since third party earphones won't work. <hr size="1" width="100%"> </td> </tr> <!-- MONEY_NEWS_STORY_END --> <!-- MONEY_NEWS_STORY_START --> <tr HEIGHT=30 bgcolor="white"> <td WIDTH=100% VALIGN="center" align="left" valign="center"> <A ALT="" TITLE="Long Term Evolution (LTE) And WiMAX" HREF="http://www.bollywoodmovies.us/news/2009/03_09_2009.html">03/09/2009</A>: <br> <A ALT="" TITLE="Long Term Evolution (LTE)" HREF="http://www.bollywoodmovies.us/info/technology.html">Long Term Evolution (LTE)</A> is the next big thing in mobile wireless broadband. While WiMAX is being driven mostly by computer industry players, LTE is the leading edge broadband technology of the cellphone service providers. In some sense WiMAX and LTE are similar in that they both use technologies such as OFDM (orthogonal frequency division multiplexing) signal types and MIMO (multiple-input, multiple-output) signal processing algorithms. WiMAX and LTE are both IP (Internet Protocol) based technologies. <hr size="1" width="100%"> </td> </tr> <!-- MONEY_NEWS_STORY_END -->  </table>|g

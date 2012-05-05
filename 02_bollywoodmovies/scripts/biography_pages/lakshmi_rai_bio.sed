@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Lakshmi Rai|g
+s|TAG_META_KEYWORDS|Lakshmi Rai, |g
+s|TAG_META_DESCRIPTION|Lakshmi Rai|g
+#
+s|TAG_BIOGRAPHY_1|<b>Lakshmi Rai</b> was born on May 5, 1981 in Hubli, Karnataka, India.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|Lakshmi Rai is a South Indian actress and model. Lakshmi has acted in Kannada, Malayalam and Tamil movies. <BR>Lakshmi made her film debut in 2005 in Karka Kasadara.|g
+#
+s|TAG_BIO_LATEST_NEWS|<b>Mahendra Dhoni Dating Lakshmi Rai?</b> <br> Date: <A ALT="" TITLE="Mahendra Dhoni Dating Lakshmi Rai?" HREF="http://www.bollywoodmovies.us/news/2008/12_15_2008.html">12/15/2008</A>: <br> <A ALT="" TITLE="Mahendra Singh Dhoni" HREF="http://www.bollywoodmovies.us/sports/cricket/mahendra_singh_dhoni/cricket_mahendra_singh_dhoni.html">Mahendra Singh Dhoni</A> is again in the news regarding who he is currently dating. Dhoni was previously linked with Bollywood actress <A ALT="" TITLE="Deepika Padukone" HREF="http://www.bollywoodmovies.us/actress/deepika_padukone/bollywood_deepika_padukone.html">Deepika Padukone</A> and now the rumor mill is busy with his maybe current relationship with actress <A ALT="" TITLE="Lakshmi Rai" HREF="http://www.bollywoodmovies.us/actress/lakshmi_rai/bollywood_lakshmi_rai.html">Lakshmi Rai</A> from the south. Lakshmi Rai was previously in the news being linked to bowler Sreesanth. Dhoni and Lakshmi were recently spotted in a five-star hotel in Chennai where Dhoni had gone there to select the Indian team for the England series. They had first met at a party of Dhoni's <A ALT="" TITLE="IPL" HREF="http://www.bollywoodmovies.us/sports/cricket/cricket.html">IPL</A> match win. <BR> It also seems that the actress from the South has been signed for a Hindi movie, <A ALT="" TITLE="Gujju Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2009/gujju.html">Gujju (2009)</A> , which will start to shot next year.|g
