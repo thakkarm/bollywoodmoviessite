@@ -1,0 +1,15 @@
+s|TAG_TITLE_NAME|Rani Mukherjee|g
+s|TAG_KEYWORD_ACTRESS_NAME|Rani Mukherjee|g
+s|TAG_DESC_ACTRESS_NAME|Rani Mukherjee|g
+#
+s|TAG_ALT_ACTRESS_NAME|Rani Mukherjee|g
+s|TAG_DIR_NAME_1|actress|g
+s|TAG_DIR_ACTRESS_NAME|rani_mukherjee|g
+s|TAG_ACTRESS_LONG_DESC|Rani Mukherjee, latest news and pictures, video clips, biography, filmography, bollywood movie actress.|g
+#
+s|TAG_FILMOGRAPHY_2000_2004_MOVIE_RELEASES|Paheli ( Shah Rukh Khan, Rani Mukherjee, Juhi Chawla, Amitabh Bachchan, Sunil Shetty, Anupam Kher) The Rising ( Aamir Khan, Toby Stephens, Amisha Patel, Rani Mukherjee, Coral Beed) Bunty Aur Babli ( Abhishek Bachchan, Rani Mukherjee, Amitabh Bachchan) Black ( Amitabh Bachchan, Rani Mukherjee) Veer Zaara ( Shah Rukh Khan, Preity Zinta, Rani Mukherjee) Yuva ( Ajay Devgan, Abhishek Bachchan, Vivek Oberoi, Rani Mukherjee, Esha Deol, Kareena Kapoor) Hum Tum ( Saif Ali Khan, Rani Mukherjee) Calcutta Mail ( Anil Kapoor, Rani Mukherjee) Chalte Chalte ( Shah Rukh Khan, Rani Mukherjee) Saathiya ( Vivek Oberoi, Rani Mukherjee) Mujhse Dosti Karoge ( Hrithik Roshan, Rani Mukherjee, Kareena Kapoor) Chori Chori ( Ajay Devgan, Rani Mukherjee) Pyaar Diwana Hota Hai ( Govinda, Rani Mukherjee) Badal ( Bobby Deol, Rani Mukherjee, Amrish Puri) Nayak ( Anil Kapoor, Amrish Puri, Rani Mukherjee) Bas Itna Sa Khwab Hai ( Abhishek Bachchan, Rani Mukherjee, Jackie Shroff, Sushmita Sen) Chori Chori Chupke Chupke ( Salman Khan, Rani Mukherjee, Preity Zinta, Johnny Lever) Kahin Pyar Na Ho Jaye ( Salman Khan, Rani Mukherjee) Kuch Kuch Hota Hai ( Shah Rukh Khan, Kajol, Rani Mukherjee, Salman Khan) Har Dil Jo Pyar Karega ( Salman Khan, Rani Mukherjee, Preity Zinta) Hey Ram ( Kamal Haasan, Rani Mukherjee, Shah Rukh Khan, Naseeruddin Shah) Hello Brother ( Salman Khan, Rani Mukherjee, Arbaaz Khan) Had Kar Di Apne ( Govinda, Rani Mukherjee) Bichhoo ( Bobby Deol, Rani Mukherjee)|g
+s|TAG_FILMOGRAPHY_2004_2005_MOVIE_RELEASES|<A ALT="" TITLE="Bunty Aur Babli Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2005/bunty_aur_babli.html">Bunty Aur Babli (2005)</A><BR><A ALT="" TITLE="Black Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2005/black.html">Black (2005)</A>|g
+#
+s|TAG_FILMOGRAPHY_2006_MOVIE_RELEASES|<A ALT="" TITLE="Babul, Baabul Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2006/babul.html">Babul, Baabul (2006)</A> : December 8, 2006<BR><A ALT="" TITLE="Kabhi Alvida Na Kehna (KANK) Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2006/kabhi_alvida_na_kehna.html">Kabhi Alvida Na Kehna (KANK) (2006)</A> : August 11, 2006|g
+#
+s|TAG_FILMOGRAPHY_2007_MOVIE_RELEASES|<A ALT="" TITLE="Saanvariya Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2006/saanvariya.html">Saanvariya (2007)</A> : November 9, 2007<BR><A ALT="" TITLE="Laaga Chunari Mein Daag Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2007/laaga_chunari_mein_daag.html">Laaga Chunari Mein Daag (2007)</A> : October 12, 2007<BR><A ALT="" TITLE="Ta Ra Rum Pum Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2007/ta_ra_rum_pum.html">Ta Ra Rum Pum (2007)</A> : 27 April 2007|g

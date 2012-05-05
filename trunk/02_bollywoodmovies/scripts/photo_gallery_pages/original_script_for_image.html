@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>Volcanic Places in the USA</title> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- hide this script from old browsers
+
+// This script opens a new browser window and writes
+// HTML to display an image with a title and caption
+
+function show_photo( pFileName, pTitle, pCaption) {
+
+// specify window paramaters
+	photoWin = window.open( "", "photo", "width=600,height=450,status,scrollbars,resizable,screenX=20,screenY=40,left=20,top=40");
+
+// wrote content to window
+	photoWin.document.write('<html><head><title>' + pTitle + '</title></head>');	
+	photoWin.document.write('<BODY BGCOLOR=#000000 TEXT=#FFFFCC LINK=#33CCFF VLINK=#FF6666>');
+	photoWin.document.write('<center>');
+	photoWin.document.write('<font size=+3 face="arial,helvetica"><b>' + pCaption + '</b></font><br>');
+	photoWin.document.write('<img src="' + pFileName + '"><p>');
+	photoWin.document.write('<font face="arial,helvetica">');	
+	photoWin.document.write( '"' + pTitle + '" photo &copy; Lorrie Lava<br>');
+	photoWin.document.write('<a href="mailto:lava@pele.bigu.edu">lava@pele.bigu.edu</a><br>');
+	photoWin.document.write('Volcanic Studies, <a href="http://www.bigu.edu/">Big University</a>');
+	photoWin.document.write('<p></font></body></html>');
+	photoWin.document.close();	
+	
+// If we are on NetScape, we can bring the window to the front
+	if (navigator.appName.substring(0,8) == "Netscape") photoWin.focus();
+
+}
+// done hiding from old browsers -->
+</SCRIPT>
+
+</head>
+<BODY BGCOLOR=#000000 TEXT=#FFFFCC LINK=#33CCFF VLINK=#FF6666>
+<h5>Volcano Web / 
+<a href="index1.html">Index</a> / 
+<a href="term.html">back</a> / 
+<a href="mars.html">next</a></h5>
+
+<p>
+<table border=0 cellpadding=6 cellspacing=2>
+
+
+<tr>
+<td valign=top>On May 18, 1980, after a long period of rest, this quiet mountain in Washington provided <a href="msh.html">detailed observations</a> on
+the mechanics of highly explosive eruptions.
+</td>
+
+<td valign=top>
+This field seismometer measures earthquakes associated with
+subsurface volcanic forces and may help to predict future events. It
+sits on a plateau known as the "Volcanic Tableland" formed by a major
+eruption  600,000 years ago.
+</td>
+<td valign=top>
+<a href="../pictures/seismo.jpg" onClick="show_photo('../pictures/seismo.jpg', 'Field Seismometer', 'Volcanic Tableland, Long Valley, California'); return false" onMouseOver="window.status='view a large image of a field seismometer'; return true"><IMG SRC="../pictures/stamp.gif" ALT="link to large image" WIDTH="62" HEIGHT="85"  ALT="link to large image" WIDTH="62" HEIGHT="85" border=0></a>
+</td>
+</tr>
+
+<tr>
+<td colspan=3 align=right>
+<a href="../pictures/seismo.jpg" onClick="show_photo('../pictures/seismo.jpg', 'Field Seismometer', 'Volcanic Tableland, Long Valley, California'); return false" onMouseOver="window.status='view a large image of a field seismometer'; return true">
+-- [full size image] --</a></td>
+</tr>
+</table>
+
+<!-- start of Volcano Web standard footers -->
+<SCRIPT LANGUAGE="JavaScript">
+<!-- hide  scripts from old browsers
+
+document.write('<p><hr><FONT FACE="helvetica,arial" size=-1><i>Volcano Web:</i> <b>');
+document.write(document.title + '</b><BR>');
+document.write('created by Lorrie Lava, ');
+document.write('<a href="mailto:lava@pele.bigu.edu?subject=' + document.title + '">');
+document.write('lava@pele.bigu.edu</a><br>');
+document.write('Volcanic Studies, <a href="http://www.bigu.edu/">');
+document.write('Big University</a><p>');
+
+// append a modification date only if server provides a valid date
+if (Date.parse(document.lastModified) > 0) {
+	document.write('<b>last modified: </b>' + document.lastModified + '<BR>');
+}
+document.write('<b>URL: </b>' + document.location.href + '</FONT><P>');	
+
+// done hiding from old browsers -->
+</SCRIPT>
+<!-- end of Volcano Web standard footers -->
+
+</body>
+</html>

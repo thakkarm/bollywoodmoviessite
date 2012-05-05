@@ -1,0 +1,16 @@
+s|TAG_META_TITLE|Sonam Kapoor Saawariya, Vidya Balan, Rani Mukherjee|g
+s|TAG_META_KEYWORDS|Sonam Kapoor Saawariya, Abhishek Bachchan, Vidya Balan, Rani Mukherjee, Laaga Chunari Mein Daag, Movie Review, |g
+#
+s|TAG_NEWS_WITH_IMAGE||g
+#
+s|TAG_NEWS_WITHOUT_IMAGE||g
+#
+s|TAG_NEWS_WORLD||g
+#
+s|TAG_NEWS_SPORT||g
+#
+s|TAG_PICTURES_OF_THE_WEEK|<A HREF="http://www.bollywoodmovies.us/actress/sonam_kapoor/bollywood_sonam_kapoor_photo_gallery_01.html"> <IMG SRC="http://www.bollywoodmovies.us/actress/sonam_kapoor/pics/sonam_kapoor_01.jpg" ALT="Sonam Kapoor Saawariya" TITLE="Sonam Kapoor Saawariya" WIDTH="100" HEIGHT="100" BORDER="0"> </A> .. <A HREF="http://www.bollywoodmovies.us/actor/ranbir_kapoor/bollywood_ranbir_kapoor_photo_gallery_01.html"> <IMG SRC="http://www.bollywoodmovies.us/actor/ranbir_kapoor/pics/ranbir_kapoor_01.jpg" ALT="Ranbir Kapoor Saawariya" TITLE="Ranbir Kapoor Saawariya" WIDTH="100" HEIGHT="100" BORDER="0"> </A>|g
+#
+s|TAG_MOVIE_RELEASES|<!-- MOVIE_RELEASE_NEXT_WEEK_TABLE_START --> <TABLE width=100% align="center" cellspacing="0" border="1" bordercolor="#ffdead" id="Movie Reviews Table"> <TR ALIGN="center"> <TD WIDTH=100% bgcolor="#ffdead"> <strong><font color="#3300ff" size="4"> Movie Releasing October 12, 2007: </font></strong> </TD> </TR> <!-- REVIEW_START --> <TR ALIGN="left" BORDER="0"> <TD WIDTH=100% bgcolor="white"> <table WIDTH=100% border="0" cellspacing="0" cellpadding="0" bgcolor="white"> <!-- REVIEW_START_START --> <tr HEIGHT=40 bgcolor="white"> <td WIDTH=100% VALIGN="center" align="left" valign="center"> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <A ALT="" TITLE="Bollywood Movie Review for Bhool Bhulaiya" HREF="http://www.bollywoodmovies.us/movie_reviews/2007/bhool_bhulaiya.html">Bhool Bhulaiya (2007) </A> <br> Cast: <A ALT="" TITLE="Bollywood Movie Review, Akshay Kumar" HREF="http://www.bollywoodmovies.us/actor/akshay_kumar/bollywood_akshay_kumar_photo_gallery_01.html">Akshay Kumar </A> , <A ALT="" TITLE="Bollywood Movie Review, Vidya Balan" HREF="http://www.bollywoodmovies.us/actress/vidya_balan/bollywood_vidya_balan_photo_gallery_01.html">Vidya Balan </A> </font> </td> </tr> <!-- REVIEW_START_END --> <!-- REVIEW_START_START --> <tr HEIGHT=40 bgcolor="white"> <td WIDTH=100% VALIGN="center" align="left" valign="center"> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <A ALT="" TITLE="Bollywood Movie Review for Laaga Chunari Mein Daag" HREF="http://www.bollywoodmovies.us/movie_reviews/2007/laaga_chunari_mein_daag.html">Laaga Chunari Mein Daag (2007) </A> <br> Cast: <A ALT="" TITLE="Bollywood Movie Review, Abhishek Bachchan" HREF="http://www.bollywoodmovies.us/actor/abhishek_bachchan/bollywood_abhishek_bachchan_photo_gallery_01.html">Abhishek Bachchan </A> , <A ALT="" TITLE="Bollywood Movie Review, Rani Mukherjee" HREF="http://www.bollywoodmovies.us/actress/rani_mukherjee/bollywood_rani_mukherjee_photo_gallery_01.html">Rani Mukherjee </A> </font> </td> </tr> <!-- REVIEW_START_END --> </table> </TD> </TR> <!-- REVIEW_END --> </TABLE> <!-- MOVIE_RELEASE_NEXT_WEEK_TABLE_END -->|g
+#
+s|TAG_DATE_MONTH|2007_10_Oct|g

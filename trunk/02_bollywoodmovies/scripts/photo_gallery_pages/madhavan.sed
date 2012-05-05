@@ -1,0 +1,8 @@
+s|TAG_TITLE_NAME|Madhavan|g
+s|TAG_KEYWORD_ACTRESS_NAME|madhavan|g
+s|TAG_DESC_ACTRESS_NAME|madhavan|g
+s|TAG_ALT_ACTRESS_NAME|madhavan|g
+s|TAG_DIR_NAME_1|actor|g
+s|TAG_DIR_ACTRESS_NAME|madhavan|g
+s|TAG_ACTRESS_LONG_DESC|Madhavan...add description|g
+#

@@ -1,0 +1,17 @@
+s|TAG_META_TITLE|Bollywood Movies: 2011 Tennis Sport News, Blog, Scores and Schedule|g
+s|TAG_META_KEYWORDS|2011 tennis sport news, picture gallery, schedule, scores, highlights, wallpaper, indian, Sania Mirza, Venus Williams, Maria Sharapova, Ana Ivanovic, Pattaya Open, Australian Open|g
+s|TAG_META_DESCRIPTION|We provided the latest sports news about Indian tennis players. We also have Photo, Picture gallery, and Wallpaper of all the tennis star including Sania Mirza.|g
+#
+s|TAG_INFO_CATEGORY||g
+#
+s|TAG_TITLE_NAME|Tennis News and Updates|g
+#
+# ************** NOTE: COPY ONLY THE INTERNAL STORY_START TO STORY_END : AND COPY TO THE 1st STORY_START
+#
+s|TAG_MAIN_INFO_1|<TABLE WIDTH=600 BORDER="1" BORDERCOLOR="orange" VALIGN="top" ALIGN="left"> <!-- STORY_START --> <TR VALIGN="top"> <TD WIDTH=15% BORDER="1" BORDERCOLOR="orange"> <A HREF="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/tennis_sania_mirza_photo_gallery_01.html"> <IMG SRC="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/pics/sania_mirza_02.jpg" ALT="Sania Mirza" TITLE="Sania Mirza" WIDTH="100" HEIGHT="100" BORDER="0"> </A> </TD> <TD WIDTH=75% BORDER="1" BORDERCOLOR="green"> <b>Sania Mirza Jumps 17 Places In WTA singles rankings and Wins Her 2nd WTA Doubles Title</b> <br> <A ALT="" TITLE="Sania Mirza Jumps 17 Places In WTA singles rankings and Wins Her 2nd WTA Doubles Title" HREF="http://www.bollywoodmovies.us/news/2011/04_11_2011.html">04/11/2011</A>: <br> <A ALT="" TITLE="Sania Mirza" HREF="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/tennis_sania_mirza.html">Sania Mirza</A> who has been quite in the world of tennis after her marriage seems to be making a comeback. Last week, Indian tennis ace Sania Mirza reached the quarterfinal in the Family Circle Cup at Charleston, South Carolina, USA where she lost to Peng Shuai of China. <BR> But Sania and her doubles partner Elena Vesnina of Russia did win their second WTA title together by beating Americans Bethanie Mattek-Sands and Meghann Shaughnessy in straight-set. </TD> </TR> <!-- STORY_END -->  <!-- STORY_START --> <TR VALIGN="top"> <TD WIDTH=15% BORDER="1" BORDERCOLOR="orange"> <A HREF="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/tennis_sania_mirza_photo_gallery_04.html"> <IMG SRC="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/pics/sania_mirza_30.jpg" ALT="Sania Mirza" TITLE="Sania Mirza" WIDTH="100" HEIGHT="100" BORDER="0"> </A> </TD> <TD WIDTH=75% BORDER="1" BORDERCOLOR="green"> <b>Sania Mirza reached the quarter at the Family Circle Cup WTA</b> <br> <A ALT="" TITLE="Sania Mirza reached the quarter at the Family Circle Cup WTA" HREF="http://www.bollywoodmovies.us/news/2011/04_04_2011.html">04/09/2011</A>: <br> Charleston, South Carolina: Family Circle Cup WTA tournament <A ALT="" TITLE="Sania Mirza" HREF="http://www.bollywoodmovies.us/sports/tennis/sania_mirza/tennis_sania_mirza.html">Sania Mirza</A> reached the quarter at the Family Circle Cup WTA tournament being played in Charleston, South Carolina. Sania beat Saine Lisicki of Germany in straight set 6-4, 6-4 victory. Sania will now face 11th seed Shuai Peng of China. Peng reached the quater file by beating seventh seed Russian Nadia Petrova 6-3, 5-7, 6-2. </TD> </TR> <!-- STORY_END -->  <!-- STORY_END --></TABLE>|g
+#
+s|TAG_GOOGLE_ADLINKS|4926127739|g
+s|TAG_GOOGLE_H1_BANNER|3206985042|g
+s|TAG_GOOGLE_H2_BANNER|3206985042|g
+s|TAG_GOOGLE_V1_BANNER|3206985042|g
+s|TAG_GOOGLE_V2_BANNER|3206985042|g

@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Nargis Fakhri|g
+s|TAG_META_KEYWORDS|Nargis Fakhri, American model, Indian Actress|g
+s|TAG_META_DESCRIPTION|Nargis Fakhri, American model, Indian Actress|g
+#
+s|TAG_BIOGRAPHY_1|<b>Nargis Fakhri</b> was born on __ in Queens, New York, USA.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|Nargis is an American model and Indian film actress. Nargis was featured in 2009 Kingfisher swimsuit calendar and will make her Bollywood movie debut against <A ALT="" TITLE="Ranbir Kapoor" HREF="http://www.bollywoodmovies.us/actor/ranbir_kapoor/bollywood_ranbir_kapoor.html">Ranbir Kapoor</A> in movie <A ALT="" TITLE="Rockstar Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2010/rockstar.html">Rockstar (2011)</A>.|g
+#
+s|TAG_BIO_LATEST_NEWS|<b>Ranbir Kapoor And Nargis Fakhri? What about Katrina Kaif?</b> <br> Date: <A ALT="" TITLE="Ranbir Kapoor And Nargis Fakhri? What about Katrina Kaif?" HREF="http://www.bollywoodmovies.us/news/2011/03_07_2011.html">03/10/2011</A>: <br> Can it be true that <A ALT="" TITLE="Ranbir Kapoor" HREF="http://www.bollywoodmovies.us/actor/ranbir_kapoor/bollywood_ranbir_kapoor.html">Ranbir Kapoor</A> is now going out with <A ALT="" TITLE="Nargis Fakhri" HREF="http://www.bollywoodmovies.us/actress/nargis_fakhri/bollywood_nargis_fakhri.html">Nargis Fakhri</A> , who also happens to star opposite him in his upcoming film <A ALT="" TITLE="Rockstar Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2010/rockstar.html">Rockstar (2011)</A> . Recently both where spotted coming out of a Mumbai multiplex with his friend Ayaan Mukherji. If this was a real date, then the Ranbit and Katrina pair did not last that long. For some time Katrina has suspected that Ranbir and Nargis were going out, and hence came to Delhi on the sets of thier film Rockstar.|g

@@ -1,0 +1,31 @@
+{{Infobox Website
+| name = Bollywood Movies
+| favicon = 
+| logo = 
+| screenshot = 
+| caption = 
+| url = http://www.bollywoodmovies.us/
+| commercial = Yes
+| type = Reviews/Ratings for Bollywood Movies
+| registration = Free/subscription
+| owner =  bollywoodmovies.us
+| author =  
+| launch date =  Nov 01, 2005
+| current status = online
+| revenue = 
+| language       = [[English language|English]]
+| alexa          = 37,030<ref>{{cite web|url=http://www.alexa.com/data/details/traffic_details/bollywoodmovies.us|title=Alexa website rankings for Bollywood Movies|accessdate=2009-01-03|publisher=Alexa Internet, Inc}}</ref>
+}}
+'''Bollywood Movies''' is a provider of the latest Bollywood Movie News, Photo, Picture and Wallpaper of all the Bollywood movie Actor and Actress. We also provide news about cricket and other ongoing in India.
+
+==External links==
+*[http://www.bollywoodmovies.us/ Bollywood Movies Home Page]
+==References==
+{{reflist}}
+
+{{Website-stub}}
+[[Category:Film websites]]
+[[Category:Film review websites]]
+[[Category:Internet properties established in 2005]]
+[[Category:Bollywood]]
+

@@ -1,0 +1,9 @@
+s|TAG_META_TITLE|Militza Radmilovic, |g
+s|TAG_META_KEYWORDS|Militza Radmilovic, British model and actress, Fired|g
+s|TAG_META_DESCRIPTION|Militza Radmilovic is an British model and actress.|g
+#
+s|TAG_BIOGRAPHY_1|<b>Militza Radmilovic</b> was born on __ in __.|g
+#
+s|TAG_BIOGRAPHY_OTHER_FACTS|Militza is an British model and actress.|g
+#
+s|TAG_BIO_LATEST_NEWS|<b>Hrithik Roshan And Monikangana Dutta In Guzaarish</b> <br> Date: <A ALT="" TITLE="Hrithik Roshan And Monikangana Dutta In Guzaarish" HREF="http://www.bollywoodmovies.us/news/2009/12_28_2009.html">12/28/2009</A>: <br> <A ALT="" TITLE="Hrithik Roshan" HREF="http://www.bollywoodmovies.us/actor/hrithik_roshan/bollywood_hrithik_roshan.html">Hrithik Roshan</A> is currently shotting with <A ALT="" TITLE="Monikangana Dutta" HREF="http://www.bollywoodmovies.us/actress/monikangana_dutta/bollywood_monikangana_dutta.html">Monikangana Dutta</A> in <A ALT="" TITLE="Sanjay Leela Bhansali" HREF="http://www.bollywoodmovies.us/director/sanjay_leela_bhansali/bollywood_sanjay_leela_bhansali.html">Sanjay Leela Bhansali</A> 's upcoming movie <A ALT="" TITLE="Guzaarish Movie Review" HREF="http://www.bollywoodmovies.us/movie_reviews/2010/guzaarish.html">Guzaarish (2010)</A> in Goa. Hrithik plays the husband of Monikangana in the movie which is a very intense love story, and hence Sanjay wants to shot lovemaking scene between which has made Hrithik's wife <A ALT="" TITLE="Suzanne Roshan" HREF="http://www.bollywoodmovies.us/actress/suzanne_roshan/bollywood_suzanne_roshan.html">Suzanne Roshan</A> very nervous. The model is making her Bollywood film debut in this film. Hrithik playing a paraplegic bound on a wheelchair who falls for his nurse played by <A ALT="" TITLE="Aishwarya Rai Bachchan" HREF="http://www.bollywoodmovies.us/actress/aishwarya_rai/bollywood_aishwarya_rai.html">Aishwarya Rai Bachchan</A>.|g

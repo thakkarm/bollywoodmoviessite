@@ -1,0 +1,1 @@
+call createFootballNewsPage.bat football_nfl football_nfl
