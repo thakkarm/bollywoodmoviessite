@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bollywood Movies</string>
+    <string name="title_section3">About Us</string>
+    <string name="title_section2">News</string>
+    <string name="title_section1">Photos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="appTitle">Bollywood Movies</string>
+
+    <string name="newsActivityLabel">News</string>
+    <string name="photoGalleryActivityLabel">Photo Gallery</string>
+    <string name="photoListViewLabel">Photo Gallery</string>
+    <string name="newsListViewLabel">News</string>
+    <string name="newsItemActivityLabel">News</string>
+    <string name="menuActivityLabel">Menu</string>
+    <string name="aboutUsActivityLabel">About Us</string>
+    <string name="button_send">Send</string>
+    <!-- Button Labels -->
+    <string name="photoButtonLabel">Photo</string>
+    <string name="newsButtonLabel">News</string>
+    <string name="aboutUsButtonLabel">About Us</string>
+</resources>
+

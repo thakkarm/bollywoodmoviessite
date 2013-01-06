@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logo">
+    
+    
+    <!-- remove from original tools:context=".SplashActivity"
+    tools:ignore="MergeRootFrame" --> 
+
+        <!-- Below can be put in the above to set the backgroud of the application -->
+    <!-- android:background="@drawable/logo" -->
+<!-- 
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/appTitle"
+    />
+<ImageView android:id="@+id/LogoView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/logo"></ImageView>
+ -->
+     
+<LinearLayout android:id="@+id/LinearLayoutFooter" android:layout_width="wrap_content" android:layout_height="wrap_content">
+<Button android:text="@string/photoButtonLabel" android:id="@+id/ButtonPhotoGallery" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="@string/newsButtonLabel" android:id="@+id/ButtonNews" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="@string/aboutUsButtonLabel" android:id="@+id/ButtonAboutUs" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+
+
+</LinearLayout>
+    
+    
+
+</FrameLayout>
