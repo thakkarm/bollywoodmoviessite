@@ -43,7 +43,9 @@ public class Photo extends BaseApplicationActivity
 {
 
     private static boolean SET_ADJUST_VIEW = true;
-
+    private static PhotoLoader m_photoLoader = new PhotoLoader();
+    
+	// | -----------------------------------------------------------------------
     public void onCreate(Bundle icicle)
     {
         Log.v(CommonConstants.LOG_TAG, CommonConstants.LOG_IN + Photo.class
@@ -95,8 +97,9 @@ public class Photo extends BaseApplicationActivity
                 .getPhotoGalleryButtonListener());
 
         // Look up the AdView as a resource and load a request.
-        AdView adView = (AdView)this.findViewById(R.id.adView);
-        adView.loadAd(new AdRequest());
+        //TODO: Add Ads here
+//        AdView adView = (AdView)this.findViewById(R.id.adView);
+//        adView.loadAd(new AdRequest());
         
 //1        TextView headerText = (TextView) findViewById(R.id.adView);
         //leftSideText.setLines(23);
@@ -113,13 +116,14 @@ public class Photo extends BaseApplicationActivity
         // | Update the title to match the Celebrity photo being displayed
         setTitle(currentCelebrity);
 
-        ImageView imgView = (ImageView) findViewById(R.id.PhotoImageView);
-        this.showImage(url, imgView);
+//        ImageView imgView = (ImageView) findViewById(R.id.PhotoImageView);
+        this.showImage(url);
 
         Log.v(CommonConstants.LOG_TAG, CommonConstants.LOG_OUT + Photo.class
                 + "::onCreateOptionsMenu()");
     }
     
+	// | -----------------------------------------------------------------------
     public void showPreviousImage()
     {
         Log.v(CommonConstants.LOG_TAG, CommonConstants.LOG_IN + Photo.class
@@ -138,8 +142,7 @@ public class Photo extends BaseApplicationActivity
 
         String url = mainApp.getURLBollywoodCelebrity(currentCelebrity);
 
-        ImageView imgView = (ImageView) findViewById(R.id.PhotoImageView);
-        this.showImage(url, imgView);
+        this.showImage(url);
 
         mainApp.setCurrentImageShownNum(currentPersonImageIndex);
 
@@ -147,6 +150,7 @@ public class Photo extends BaseApplicationActivity
                 + "::showPreviousImage()");
     }
 
+	// | -----------------------------------------------------------------------
     public void showNextImage()
     {
         Log.v(CommonConstants.LOG_TAG, CommonConstants.LOG_IN + Photo.class
@@ -180,8 +184,7 @@ public class Photo extends BaseApplicationActivity
 
         if (url.length() > 0)
         {
-            ImageView imgView = (ImageView) findViewById(R.id.PhotoImageView);
-            this.showImage(url, imgView);
+            this.showImage(url);
         }
 
         // Disable the buttons
@@ -191,7 +194,8 @@ public class Photo extends BaseApplicationActivity
                 + "::showNextImage()");
     }
 
-    private Drawable ImageOperations(Context ctx, String url)
+	// | -----------------------------------------------------------------------
+    private Drawable ImageOperations(String url)
     {
         try
         {
@@ -209,6 +213,7 @@ public class Photo extends BaseApplicationActivity
         }
     }
 
+	// | -----------------------------------------------------------------------
     public Object fetch(String address) throws MalformedURLException,
             IOException
     {
@@ -225,6 +230,7 @@ public class Photo extends BaseApplicationActivity
 
     private GestureDetector mGestureDetector = null;
 
+	// | -----------------------------------------------------------------------
     private class GestureListener extends SimpleOnGestureListener
     {
         @Override
@@ -247,14 +253,12 @@ public class Photo extends BaseApplicationActivity
         }
     }
 
-    private void showImage(String url, ImageView imageView)
+	// | -----------------------------------------------------------------------
+    public void showImage(Drawable image)
     {
-        Log.d(CommonConstants.LOG_TAG, "Show image at URL : [" + url + "]");
-
         // Context context = view.getContext();
         Context context = getApplicationContext();
-        Drawable image = ImageOperations(context, url);
-        imageView = (ImageView) findViewById(R.id.PhotoImageView);
+        ImageView imageView = (ImageView) findViewById(R.id.PhotoImageView);
 
         if (null != image)
         {
@@ -292,17 +296,21 @@ public class Photo extends BaseApplicationActivity
             imageView.setMinimumWidth(300);
 
             imageView.setImageDrawable(image);
-        } else
-        {
-            Log.e(CommonConstants.LOG_TAG, "**** ********************************** *****");
-            Log.e(CommonConstants.LOG_TAG, "**** Null image for URL : [" + url + "] *****");
-            Log.e(CommonConstants.LOG_TAG, "**** ********************************** *****");
-            // MainApp.getInstance().handleException(new NullPointerException());
-            //TODO: Do not throw exception, have them retry it, it causes a crash need to investigate
         }
+    	
+    }
+    
+	// | -----------------------------------------------------------------------
+    private void showImage(String url)
+    {
+        Log.d(CommonConstants.LOG_TAG, "Show image at URL : [" + url + "]");
+        ImageView imageView = (ImageView) findViewById(R.id.PhotoImageView);
+
+        m_photoLoader.loadPhoto(url, this, imageView);        
 
     }
 
+	// | -----------------------------------------------------------------------
     OnClickListener prevOnClickListner = new OnClickListener() {
         public void onClick(View view)
         {
@@ -315,6 +323,7 @@ public class Photo extends BaseApplicationActivity
         }
     };
 
+	// | -----------------------------------------------------------------------
     OnClickListener nextOnClickListner = new OnClickListener() {
         public void onClick(View view)
         {
@@ -328,6 +337,7 @@ public class Photo extends BaseApplicationActivity
         }
     };
 
+	// | -----------------------------------------------------------------------
     private void disableButtons()
     {
         // | Get button from layout
@@ -343,6 +353,7 @@ public class Photo extends BaseApplicationActivity
         
     }
 
+	// | -----------------------------------------------------------------------
     private void enableButtons()
     {
         // | Get button from layout
