@@ -19,6 +19,8 @@ package com.bollywoodmovies;
 
 import com.bollywoodmovies.config.Configuration;
 import com.bollywoodmovies.config.NewsData;
+import com.google.ads.AdRequest;
+import com.google.ads.AdView;
 import com.util.CommonConstants;
 
 import android.content.Intent;
@@ -62,6 +64,10 @@ public class NewsItem extends BaseApplicationActivity
         
         // | Register the onClick listener with the implementation above
         photoGalleryButton.setOnClickListener(mainMenuOnClickListner);
+
+        // Look up the AdView as a resource and load a request.
+        AdView adView = (AdView)this.findViewById(R.id.adView);
+        adView.loadAd(new AdRequest());
 
         mGestureDetector = new GestureDetector(this, new GestureListener());
 
