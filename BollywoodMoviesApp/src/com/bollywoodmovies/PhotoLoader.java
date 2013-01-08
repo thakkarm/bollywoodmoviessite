@@ -140,17 +140,17 @@ class PhotoLoaderTask extends AsyncTask<String, Integer, Bitmap> {
 }
 
 // ----------------------------------------------------------------------------
-public class PhotoLoader {
-
-	public void loadPhoto(String address, Photo photo, ImageView imageView) {
-		Log.d(CommonConstants.LOG_TAG, "Fetching [" + address + " ]");
-
-		PhotoLoaderTask photoLoaderTask = new PhotoLoaderTask();
-		photoLoaderTask.execute(address);
-		photoLoaderTask.m_photo = photo;
-		photoLoaderTask.m_imageView = imageView;
-		
-	}
-}
+//public class PhotoLoader {
+//
+//	public void loadPhoto(String address, Photo photo, ImageView imageView) {
+//		Log.d(CommonConstants.LOG_TAG, "Fetching [" + address + " ]");
+//
+//		PhotoLoaderTask photoLoaderTask = new PhotoLoaderTask();
+//		photoLoaderTask.execute(address);
+//		photoLoaderTask.m_photo = photo;
+//		photoLoaderTask.m_imageView = imageView;
+//		
+//	}
+//}
 
 //http://www.peachpit.com/articles/article.aspx?p=1823692&seqNum=3

@@ -6,6 +6,14 @@
               android:layout_height="fill_parent">
 
 <!-- Ad Mob Layout -->
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content">
+  <com.google.ads.AdView android:id="@+id/adView"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         ads:adUnitId="a14b7caea59bc24"
+                         ads:adSize="BANNER"
+                         ads:loadAdOnCreate="true"/>
+</LinearLayout>	
 
 <LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content">
 
