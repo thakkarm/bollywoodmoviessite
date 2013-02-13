@@ -70,9 +70,9 @@ class PhotoLoaderTask extends AsyncTask<String, Integer, Bitmap> {
 
 	// ----------------------------------------------------------------------------
 	protected void onPostExecute(Bitmap image) {
-
-		
 		if (m_imageView != null && image != null) {
+			image = Bitmap.createScaledBitmap(image, 75, 75, false);
+			/* Set Height & Width */
 			m_imageView.setImageBitmap(image);
 		}
 

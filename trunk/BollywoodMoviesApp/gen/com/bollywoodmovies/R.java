@@ -22,20 +22,20 @@ public final class R {
         public static final int prevsmall=0x7f020008;
     }
     public static final class id {
-        public static final int AboutUsText=0x7f070001;
-        public static final int ButtonAboutUs=0x7f070005;
+        public static final int AboutUsText=0x7f070005;
+        public static final int ButtonAboutUs=0x7f070003;
         public static final int ButtonMainMenu=0x7f07000d;
-        public static final int ButtonNews=0x7f070004;
+        public static final int ButtonNews=0x7f070002;
         public static final int ButtonNext=0x7f07000e;
-        public static final int ButtonPhotoGallery=0x7f070003;
+        public static final int ButtonPhotoGallery=0x7f070001;
         public static final int ButtonPrev=0x7f07000c;
         public static final int LinearLayout01=0x7f070007;
         public static final int LinearLayout02=0x7f070013;
         public static final int LinearLayout03=0x7f07000f;
         public static final int LinearLayout04=0x7f070011;
-        public static final int LinearLayoutFooter=0x7f070002;
+        public static final int LinearLayoutFooter=0x7f070000;
         public static final int ListViewNews=0x7f070009;
-        public static final int LogoView=0x7f070000;
+        public static final int LogoView=0x7f070004;
         public static final int PhotoImageView=0x7f070016;
         public static final int PhotoListScrollView=0x7f070017;
         public static final int PhotoListView=0x7f070015;
@@ -61,6 +61,10 @@ public final class R {
         public static final int activity_splash=0x7f060000;
     }
     public static final class string {
+        public static final int ActorImages=0x7f040012;
+        public static final int ButtonNext=0x7f040014;
+        public static final int ButtonPhotoGallery=0x7f040015;
+        public static final int ButtonPrev=0x7f040013;
         public static final int aboutUsActivityLabel=0x7f04000d;
         public static final int aboutUsButtonLabel=0x7f040011;
         public static final int appTitle=0x7f040006;
