@@ -35,16 +35,12 @@
 <TextView android:text="@+id/TextViewNewsBody" android:id="@+id/TextViewNewsBody" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
 </LinearLayout>
 
-<LinearLayout android:id="@+id/LinearLayoutFooter" android:layout_width="wrap_content" android:layout_height="wrap_content">
+</LinearLayout>
 <!--
+<LinearLayout android:id="@+id/LinearLayoutFooter" android:layout_width="wrap_content" android:layout_height="wrap_content">
+
 <Button android:text="@+id/ButtonPhotoGallery" android:id="@+id/ButtonPhotoGallery" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <Button android:text="@+id/ButtonNews" android:id="@+id/ButtonNews" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <Button android:text="@+id/ButtonAboutUs" android:id="@+id/ButtonAboutUs" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>
 -->
-</LinearLayout>
-
-
-
-
-
-</LinearLayout>

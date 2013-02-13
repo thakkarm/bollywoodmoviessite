@@ -15,27 +15,53 @@
                          ads:loadAdOnCreate="true"/>
 </LinearLayout>	
 
-<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+<LinearLayout
+    android:id="@+id/LinearLayoutFooter"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    <Button
+        android:id="@+id/ButtonPhotoGallery"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="4dp"
+        android:shadowColor="#FF0000"
+        android:text="@string/photoButtonLabel" />
 
-<Button android:text="@+id/ButtonPrev" android:id="@+id/ButtonPrev" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableLeft="@drawable/prevsmall"></Button>
-<Button android:text="@+id/ButtonPhotoGallery" android:id="@+id/ButtonPhotoGallery" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
-<Button android:text="@+id/ButtonNext" android:id="@+id/ButtonNext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/nextsmall"></Button>
+    <Button
+        android:id="@+id/ButtonNews"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:text="@string/newsButtonLabel" />
 
+    <Button
+        android:id="@+id/ButtonAboutUs"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:text="@string/aboutUsButtonLabel" />
+</LinearLayout>
+
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<Button android:text="@string/ButtonPrev" android:id="@+id/ButtonPrev" android:layout_width="100dp" android:layout_height="wrap_content" android:drawableLeft="@drawable/prevsmall"></Button>
+<Button android:text="@string/ButtonPhotoGallery" android:id="@+id/ButtonPhotoGallery" android:layout_width="100dp" android:layout_height="wrap_content"></Button>
+<Button android:text="@string/ButtonNext" android:id="@+id/ButtonNext" android:layout_width="100dp" android:layout_height="wrap_content" android:drawableRight="@drawable/nextsmall"></Button>
 </LinearLayout>
 
 <LinearLayout android:id="@+id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
  
- <ImageView android:id="@+id/PhotoImageView" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+<ImageView android:id="@+id/PhotoImageView" android:contentDescription="@string/ActorImages"></ImageView>
 
 </LinearLayout>
 
-<LinearLayout android:id="@+id/LinearLayoutFooter" android:layout_width="wrap_content" android:layout_height="wrap_content">
 <!--
+<LinearLayout android:id="@+id/LinearLayoutFooter" android:layout_width="wrap_content" android:layout_height="wrap_content">
 <Button android:text="@+id/ButtonPhotoGallery" android:id="@+id/ButtonPhotoGallery" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <Button android:text="@+id/ButtonNews" android:id="@+id/ButtonNews" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <Button android:text="@+id/ButtonAboutUs" android:id="@+id/ButtonAboutUs" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
--->
-
 </LinearLayout>
-
+-->
 </LinearLayout>

@@ -21,5 +21,9 @@
     <string name="photoButtonLabel">Photo</string>
     <string name="newsButtonLabel">News</string>
     <string name="aboutUsButtonLabel">About Us</string>
+    <string name="ActorImages">Images of Actors</string>
+    <string name="ButtonPrev">Prev.</string>
+    <string name="ButtonNext">Next</string>
+    <string name="ButtonPhotoGallery">Photo Gallery</string>
 </resources>
 
