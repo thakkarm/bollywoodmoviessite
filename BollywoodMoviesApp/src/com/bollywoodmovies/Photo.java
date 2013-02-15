@@ -36,18 +36,23 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bollywoodmovies.SimpleGestureFilter.SimpleGestureListener;
 import com.bollywoodmovies.config.CelebrityData;
 import com.bollywoodmovies.config.Configuration;
 import com.util.CommonConstants;
 
-public class Photo extends BaseApplicationActivity {
+public class Photo extends BaseApplicationActivity implements SimpleGestureListener{
 
 	private static boolean SET_ADJUST_VIEW = true;
 	// private static PhotoLoader m_photoLoader = new PhotoLoader();
 	private static PhotoLoaderTask m_photoLoaderTask = null;
+	private SimpleGestureFilter detector;
 
 	// | -----------------------------------------------------------------------
 	public void onCreate(Bundle icicle) {
+		
+		detector = new SimpleGestureFilter(this,this);
+		
 		Log.v(CommonConstants.LOG_TAG, CommonConstants.LOG_IN + Photo.class
 				+ "::onCreateOptionsMenu()");
 		super.onCreate(icicle);
@@ -76,7 +81,7 @@ public class Photo extends BaseApplicationActivity {
 		// prevButton.setText("P \nR \nE \nV");
 
 		prevButton.setWidth(100);
-		prevButton.setText("Prev");
+		//prevButton.setText("Prev");
 		prevButton.setOnClickListener(prevOnClickListner);
 
 		// | Get button from layout
@@ -86,7 +91,7 @@ public class Photo extends BaseApplicationActivity {
 		// nextButton.setText("N \nE \nX \nT");
 
 		nextButton.setWidth(100);
-		nextButton.setText("Next");
+		//nextButton.setText("Next");
 		nextButton.setOnClickListener(nextOnClickListner);
 
 		Button photoGalleryButton = (Button) findViewById(R.id.ButtonPhotoGallery);
@@ -366,6 +371,27 @@ public class Photo extends BaseApplicationActivity {
 		Button photoGalleryButton = (Button) findViewById(R.id.ButtonPhotoGallery);
 		photoGalleryButton.setEnabled(true);
 
+	}
+
+	public boolean dispatchTouchEvent(MotionEvent me){
+		      this.detector.onTouchEvent(me);
+		     return super.dispatchTouchEvent(me);
+		    }
+	
+	@Override
+	public void onSwipe(int direction) {
+		switch (direction) {
+		  case SimpleGestureFilter.SWIPE_RIGHT : showNextImage();
+		                                           break;
+		  case SimpleGestureFilter.SWIPE_LEFT : showPreviousImage();
+		                                           break;
+		}
+	}
+
+	@Override
+	public void onDoubleTap() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

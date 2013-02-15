@@ -28,7 +28,6 @@ import android.util.Log;
 
 public class PhotoGalleryButtonListener implements OnClickListener
 {
-
 	@Override
 	public void onClick(View view)
 	{
