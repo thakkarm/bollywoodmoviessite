@@ -37,7 +37,7 @@ public class PhotoGalleryActivity extends BaseApplicationActivity
 	    MainApp.getInstance().setPhotoGalleryActivity(this);
 
 	    //| Create and initialize the footer buttons
-	    createFooterNavigationButton();
+	    //createFooterNavigationButton();
 	    
 	    
 		Log.i(CommonConstants.LOG_TAG, CommonConstants.LOG_OUT + PhotoGalleryActivity.class + "::onCreate()");

@@ -58,13 +58,23 @@ public class NewsItem extends BaseApplicationActivity
         nextButton.setText("Next");
         nextButton.setOnClickListener(nextOnClickListner);
 
-        Button photoGalleryButton = (Button) findViewById(R.id.ButtonMainMenu);
-        photoGalleryButton.setWidth(100);
-        photoGalleryButton.setText("Main Menu");
-        
-        // | Register the onClick listener with the implementation above
-        photoGalleryButton.setOnClickListener(mainMenuOnClickListner);
+      //| Get button from layout
+	    Button newsGalleryButton = (Button)findViewById(R.id.ButtonNews);
+	    newsGalleryButton.setText("News");
+	    //| Register the onClick listener with the implementation above
+	    newsGalleryButton.setOnClickListener(MainApp.getInstance().getNewsButtonListener());
 
+	    //| Get button from layout
+	    Button photoGalleryButton = (Button)findViewById(R.id.ButtonPhotoGallery);
+	    photoGalleryButton.setText("Photos");
+	    //| Register the onClick listener with the implementation above
+	    photoGalleryButton.setOnClickListener(MainApp.getInstance().getPhotoGalleryButtonListener());
+
+	    //| Get button from layout
+	    Button aboutUsButton = (Button)findViewById(R.id.ButtonAboutUs);
+	    aboutUsButton.setText("About Us");
+	    //| Register the onClick listener with the implementation above
+	    aboutUsButton.setOnClickListener(MainApp.getInstance().getAboutUsButtonListener());
         // Look up the AdView as a resource and load a request.
         AdView adView = (AdView)this.findViewById(R.id.adView);
         adView.loadAd(new AdRequest());

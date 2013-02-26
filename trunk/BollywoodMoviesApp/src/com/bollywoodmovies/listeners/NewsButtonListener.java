@@ -50,7 +50,7 @@ public class NewsButtonListener implements OnClickListener
 //	        {
 //	            config.loadNewsConfig();
 //	        }
-//		    
+//		   
 			Intent intent = new Intent(view.getContext(), NewsListView.class);
             if (null != MainApp.getInstance().getSplashActivity())
             {                
@@ -60,10 +60,8 @@ public class NewsButtonListener implements OnClickListener
             {
                 Log.e(CommonConstants.LOG_TAG, "getSplashActivity() returns null");
             }
-
 			//Intent intent = new Intent(view.getContext(), HelloListView.class);
-			//MainApp.getInstance().getSplashActivity().startActivityForResult(intent, 0);
-			
+			//MainApp.getInstance().getSplashActivity().startActivityForResult(intent, 0);			
 		}
 		else
 		{
