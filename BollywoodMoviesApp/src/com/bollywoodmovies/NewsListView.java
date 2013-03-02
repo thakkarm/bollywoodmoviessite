@@ -30,8 +30,12 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bollywoodmovies.config.Configuration;
 import com.bollywoodmovies.config.NewsData;
@@ -46,7 +50,7 @@ public class NewsListView extends ListActivity
                 + "::onCreate()");
 
         super.onCreate(savedInstanceState);
-
+        
         Configuration config = Configuration.getInstance();
         List<NewsData> newsList = config.getNewsList();
         if (null == newsList)
@@ -68,13 +72,10 @@ public class NewsListView extends ListActivity
 //          Log.i(CommonConstants.LOG_TAG, newsData.toString());
             mListOfNewsStr[newsCount++] = newsData.getTitle();
         }
-
-        setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
-                mListOfNewsStr));
+        setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, mListOfNewsStr));
 
         getListView().setTextFilterEnabled(true);
-        //getListView().setDivider(R.drawable.appicon);
-
+        
         Log.i(CommonConstants.LOG_TAG, CommonConstants.LOG_OUT + NewsListView.class
                 + "::onCreate()");
     }
