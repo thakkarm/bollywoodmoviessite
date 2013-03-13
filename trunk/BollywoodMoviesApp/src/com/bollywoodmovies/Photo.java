@@ -153,6 +153,7 @@ public class Photo extends BaseApplicationActivity implements SimpleGestureListe
 		if (m_photoLoaderTask != null) {
 			m_photoLoaderTask.cancel(mayInterruptIfRunning);
 		}
+		super.onDestroy();
 	}
 
 	// | -----------------------------------------------------------------------
