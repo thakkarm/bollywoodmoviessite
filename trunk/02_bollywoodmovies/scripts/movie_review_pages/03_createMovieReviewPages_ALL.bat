@@ -94,7 +94,6 @@ call createPerMovieReview.bat 2006 god_tussi_great_ho
 call createPerMovieReview.bat 2006 gustakhi_maaf
 call createPerMovieReview.bat 2006 gumnaam_the_unknown
 
-call createPerMovieReview.bat 2006 happy_new_year
 call createPerMovieReview.bat 2006 haseena_smart_sexy_dangerous
 call createPerMovieReview.bat 2006 holiday
 call createPerMovieReview.bat 2006 honeymoon
@@ -685,4 +684,22 @@ call createPerMovieReview.bat 2012 teri_meri_kahani
 
 call createPerMovieReview.bat 2012 yeh_jaawani_hai_deewani
 
+REM --------------------------------------------------------------
+REM Year 2013
+REM --------------------------------------------------------------
 call createPerMovieReview.bat 2013 zanjeer
+
+REM --------------------------------------------------------------
+REM Year 2014
+REM --------------------------------------------------------------
+
+
+call createPerMovieReview.bat 2014 gulaab_gang
+
+call createPerMovieReview.bat 2014 happy_new_year
+call createPerMovieReview.bat 2014 hasee_toh_phasee
+
+call createPerMovieReview.bat 2014 jai_ho
+
+call createPerMovieReview.bat 2014 peekay_p_k
+

@@ -2,8 +2,8 @@ s|TAG_META_MOVIE_NAME|Bombay Velvet|g
 s|TAG_FILENAME_YEAR|2010|g
 s|TAG_GENRE||g
 #
-s|TAG_MOVIE_RELEASE_DATE||g
-s|TAG_MOVIE_DIRECTED_BY|Danny Boyle|g
+s|TAG_MOVIE_RELEASE_DATE|25 December 2014|g
+s|TAG_MOVIE_DIRECTED_BY|Anurag Kashyap|g
 #
 s|TAG_FILENAME_MOVIE_NAME|bombay_velvet|g
 s|TAG_IMAGE_NAME|coming_soon|g
@@ -11,18 +11,18 @@ s|TAG_IMAGE_NAME|coming_soon|g
 s|TAG_ALT_MOVIE_NAME|Bombay Velvet|g
 s|TAG_TITLE_MOVIE_NAME|Bombay Velvet|g
 #
-s|TAG_CAST_ACTOR_1|Aamir Khan|g
-s|TAG_FILENAME_CAST_ACTOR_1|aamir_khan|g
+s|TAG_CAST_ACTOR_1|Ranbir Kapoor|g
+s|TAG_FILENAME_CAST_ACTOR_1|ranbir_kapoor|g
 #
-s|TAG_CAST_ACTRESS_1||g
-s|TAG_FILENAME_CAST_ACTRESS_1||g
+s|TAG_CAST_ACTRESS_1|Anushka Sharma|g
+s|TAG_FILENAME_CAST_ACTRESS_1|anushka_sharma|g
 #
-s|TAG_CAST_ACTOR_OTHERS|John Abraham, Shahrukh Khan (SRK), |g
-s|TAG_CAST_ACTRESS_OTHERS||g
+s|TAG_CAST_ACTOR_OTHERS|Karan Johar, Kay Kay Menon, |g
+s|TAG_CAST_ACTRESS_OTHERS|Raveena Tandon, |g
 #
-s|TAG_CAST_OTHERS_LINKS|<A ALT="" TITLE="Shahrukh Khan" HREF="http://www.bollywoodmovies.us/actor/shahrukh_khan/bollywood_shahrukh_khan.html">Shahrukh Khan</A>, <A ALT="" TITLE="John Abraham" HREF="http://www.bollywoodmovies.us/actor/john_abraham/bollywood_john_abraham.html">John Abraham</A>|g
+s|TAG_CAST_OTHERS_LINKS||g
 #
-s|TAG_MOVIE_MUSIC_BY||g
+s|TAG_MOVIE_MUSIC_BY|Amit Trivedi|g
 s|TAG_MOVIE_MUSIC_LINK_BY||g
 #
 s|TAG_MOVIE_LYRICS_BY||g

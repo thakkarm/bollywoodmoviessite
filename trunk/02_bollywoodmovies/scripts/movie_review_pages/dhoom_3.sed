@@ -2,7 +2,7 @@ s|TAG_META_MOVIE_NAME|Dhoom 3, Dhoom III|g
 s|TAG_FILENAME_YEAR|2012|g
 s|TAG_GENRE|Action, Thriller|g
 #
-s|TAG_MOVIE_RELEASE_DATE|2012 Christmas|g
+s|TAG_MOVIE_RELEASE_DATE|20 December 2013|g
 s|TAG_MOVIE_DIRECTED_BY|Vijay Krishna Acharya|g
 #
 s|TAG_FILENAME_MOVIE_NAME|dhoom_3|g
