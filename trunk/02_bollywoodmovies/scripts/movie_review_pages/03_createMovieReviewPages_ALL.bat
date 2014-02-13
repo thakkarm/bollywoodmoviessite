@@ -693,8 +693,10 @@ REM --------------------------------------------------------------
 REM Year 2014
 REM --------------------------------------------------------------
 
+call createPerMovieReview.bat 2014 bewakoofiyaan
 
 call createPerMovieReview.bat 2014 gulaab_gang
+call createPerMovieReview.bat 2014 gunday
 
 call createPerMovieReview.bat 2014 happy_new_year
 call createPerMovieReview.bat 2014 hasee_toh_phasee

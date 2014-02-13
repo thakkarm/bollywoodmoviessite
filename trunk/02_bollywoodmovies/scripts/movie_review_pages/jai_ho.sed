@@ -17,8 +17,8 @@ s|TAG_FILENAME_CAST_ACTOR_1|salman_khan|g
 s|TAG_CAST_ACTRESS_1|Tabu|g
 s|TAG_FILENAME_CAST_ACTRESS_1|tabu|g
 #
-s|TAG_CAST_ACTOR_OTHERS||g
-s|TAG_CAST_ACTRESS_OTHERS||g
+s|TAG_CAST_ACTOR_OTHERS|Suniel Shetty, Danny Denzongpa, |g
+s|TAG_CAST_ACTRESS_OTHERS|Daisy Shah, |g
 #
 s|TAG_CAST_OTHERS_LINKS||g
 #
@@ -29,10 +29,10 @@ s|TAG_MOVIE_LYRICS_BY||g
 s|TAG_MOVIE_LYRICS_LINK_BY||g
 #
 # name of song and sung by
-s|TAG_MOVIE_SONG_1||g
-s|TAG_MOVIE_SONG_2||g
-s|TAG_MOVIE_SONG_3||g
-s|TAG_MOVIE_SONG_4||g
+s|TAG_MOVIE_SONG_1|Baaki Sab First Class Hai By Wajid|g
+s|TAG_MOVIE_SONG_2|Tere Naina Maar Hi Daalenge By Shaan, Shreya Ghoshal, Shabab Sabri|g
+s|TAG_MOVIE_SONG_3|Photocopy By Himesh Reshammiya, Keerthi Sagathia, Palak Muchhal|g
+s|TAG_MOVIE_SONG_4|Tumko To Aana Hi Tha By Armaan Malik, Marianne D'Cruz Aiman, Altamash Faridi<BR>Love You Till The End (House Mix) By Armaan Malik<BR>Naacho Re By Ujjayinee<BR>Jai Jai Jai Jai Ho (Title Track) By Wajid, Armaan Malik, Brijesh Shandilya, Amal Malik<BR>Photocopy (Remix) By Himesh Reshammiya, Keerthi Sagathia, Palak Muchhal<BR>Baaki Sab First Class Hai (Remix) By Wajid|g
 #
 s|TAG_SHOOTING_LOCATIONS||g
 #
