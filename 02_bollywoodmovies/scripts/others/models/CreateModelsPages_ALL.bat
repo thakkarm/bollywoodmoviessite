@@ -6,10 +6,10 @@ REM echo on
 REM -----------------------------------------------------------------------------------------
 REM Need to convert the movie photo template to models photo tempate
 REM -----------------------------------------------------------------------------------------
-F:\__site\tools\ssed.exe -f to_models.sed template_photo_gallery_page.html > template_models_photo_gallery_page.html
-F:\__site\tools\ssed.exe -f to_models.sed template_biography.html > template_models_biography.html
+C:\02_Sites\tools\ssed.exe -f to_models.sed template_photo_gallery_page.html > template_models_photo_gallery_page.html
+C:\02_Sites\tools\ssed.exe -f to_models.sed template_biography.html > template_models_biography.html
 
-F:\__site\tools\ssed.exe -f to_models.sed template_latest_news.html > template_models_latest_news.html
+C:\02_Sites\tools\ssed.exe -f to_models.sed template_latest_news.html > template_models_latest_news.html
 
 
 REM --------------------------------------------------------------
