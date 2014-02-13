@@ -318,3 +318,13 @@ call create_NewsPage.bat 2012 03_12_2012
 call create_NewsPage.bat 2012 03_19_2012
 call create_NewsPage.bat 2012 03_26_2012
 
+REM ------------------------------------
+
+call create_NewsPage.bat 2014 01_13_2014
+call create_NewsPage.bat 2014 01_20_2014
+call create_NewsPage.bat 2014 01_27_2014
+
+call create_NewsPage.bat 2014 02_03_2014
+call create_NewsPage.bat 2014 02_10_2014
+call create_NewsPage.bat 2014 02_17_2014
+
