@@ -14,7 +14,8 @@ rem call createPerMovieReview.bat 2012 dedh_ishqiya
 
 rem call createPerMovieReview.bat 2013 goliyon_ki_raasleela_ram_leela
 
-call createPerMovieReview.bat 2014 hasee_toh_phasee
+call createPerMovieReview.bat 2014 bewakoofiyaan
+
 
 
 
