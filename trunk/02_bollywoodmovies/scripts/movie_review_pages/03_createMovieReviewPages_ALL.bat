@@ -693,7 +693,11 @@ REM --------------------------------------------------------------
 REM Year 2014
 REM --------------------------------------------------------------
 
+
+call createPerMovieReview.bat 2014 bajirao_mastani
 call createPerMovieReview.bat 2014 bewakoofiyaan
+
+call createPerMovieReview.bat 2014 ek_villain
 
 call createPerMovieReview.bat 2014 gulaab_gang
 call createPerMovieReview.bat 2014 gunday
@@ -703,5 +707,8 @@ call createPerMovieReview.bat 2014 hasee_toh_phasee
 
 call createPerMovieReview.bat 2014 jai_ho
 
+call createPerMovieReview.bat 2014 kaanchi_the_unbreakable
+
 call createPerMovieReview.bat 2014 peekay_p_k
 
+call createPerMovieReview.bat 2014 shaadi_ke_side_effects
