@@ -1,0 +1,2 @@
+s/dog/cat/g
+s/cat/elephant/g

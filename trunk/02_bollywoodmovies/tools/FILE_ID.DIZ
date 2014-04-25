@@ -1,0 +1,13 @@
+SSED348.ZIP - super-sed v3.48, by Paolo
+Bonzini (bonzini@gnu.org) compiled for Win32.
+Super-sed is an enhanced version of sed, the
+stream editor. ssed supports Perl-style
+regexes, lookahead/lookbehind matching, much
+more. SSED.EXE was compiled with Cygwin, and
+CYGWIN19B.DLL must be on the PATH for it to
+run. ssed is free software distributed under
+the GNU General Public License (version 2).
+The complete documentation, source code, and
+license terms are in "sed-3.48.tar.gz", which
+can be found on the ssed home page, here:
+http://spazioweb.inwind.it/seders/ssed/

@@ -1,0 +1,9 @@
+cd C:\_Home\_Sites\bollywoodmovies.us\utils>
+..\tools\ssed -f testSedInput.txt test.txt
+
+REM test.txt
+I have three dogs and two cats 
+
+testSedInput.txt
+s/dog/cat/g
+s/cat/elephant/g
