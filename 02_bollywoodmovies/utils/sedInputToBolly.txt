@@ -1,0 +1,2 @@
+s/hindimovie.buyallgifts.com/www.bollywoodmovies.us/g
+s/0071037628/6698383110/g
