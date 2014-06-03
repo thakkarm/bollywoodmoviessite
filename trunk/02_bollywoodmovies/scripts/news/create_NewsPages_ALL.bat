@@ -327,4 +327,23 @@ call create_NewsPage.bat 2014 01_27_2014
 call create_NewsPage.bat 2014 02_03_2014
 call create_NewsPage.bat 2014 02_10_2014
 call create_NewsPage.bat 2014 02_17_2014
+call create_NewsPage.bat 2014 02_24_2014
 
+call create_NewsPage.bat 2014 03_03_2014
+call create_NewsPage.bat 2014 03_10_2014
+call create_NewsPage.bat 2014 03_17_2014
+call create_NewsPage.bat 2014 03_24_2014
+call create_NewsPage.bat 2014 03_31_2014
+
+call create_NewsPage.bat 2014 04_17_2014
+call create_NewsPage.bat 2014 04_14_2014
+call create_NewsPage.bat 2014 04_21_2014
+call create_NewsPage.bat 2014 04_28_2014
+
+call create_NewsPage.bat 2014 05_05_2014
+call create_NewsPage.bat 2014 05_12_2014
+call create_NewsPage.bat 2014 05_19_2014
+call create_NewsPage.bat 2014 05_26_2014
+
+call create_NewsPage.bat 2014 06_02_2014
+call create_NewsPage.bat 2014 06_02_2014
