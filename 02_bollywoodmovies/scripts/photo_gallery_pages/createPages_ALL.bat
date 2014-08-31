@@ -95,6 +95,7 @@ call createPerPerson_V1.bat actress katrina_kaif
 call createPerPerson_V1.bat actress kangna_ranaut
 call createPerPerson_V1.bat actress kavita_radheshyam
 call createPerPerson_V1.bat actress keerti_reddy
+call createPerPerson_V1.bat actress kiara_advani
 call createPerPerson_V1.bat actress kim_sharma
 call createPerPerson_V1.bat actress koena_mitra
 call createPerPerson_V1.bat actress konkona_sen_sharma

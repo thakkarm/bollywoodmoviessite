@@ -699,16 +699,27 @@ call createPerMovieReview.bat 2014 bewakoofiyaan
 
 call createPerMovieReview.bat 2014 ek_villain
 
+call createPerMovieReview.bat 2014 finding_fanny
+
 call createPerMovieReview.bat 2014 gulaab_gang
 call createPerMovieReview.bat 2014 gunday
 
 call createPerMovieReview.bat 2014 happy_new_year
+call createPerMovieReview.bat 2014 hate_story_2
 call createPerMovieReview.bat 2014 hasee_toh_phasee
+call createPerMovieReview.bat 2014 humpty_sharma_ki_dulhania
 
 call createPerMovieReview.bat 2014 jai_ho
 
 call createPerMovieReview.bat 2014 kaanchi_the_unbreakable
+call createPerMovieReview.bat 2014 kick
 
 call createPerMovieReview.bat 2014 peekay_p_k
 
 call createPerMovieReview.bat 2014 shaadi_ke_side_effects
+
+REM --------------------------------------------------------------
+REM Year 2015
+REM --------------------------------------------------------------
+
+call createPerMovieReview.bat 2015 jazbaa

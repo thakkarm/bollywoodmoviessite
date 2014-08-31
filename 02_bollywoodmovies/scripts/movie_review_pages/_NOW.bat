@@ -10,11 +10,16 @@ rem call createPerMovieReview.bat 2010 bombay_velvet
 
 rem call createPerMovieReview.bat 2011 bodyguard
 
-call createPerMovieReview.bat 2012 ragini_mms_2
+rem call createPerMovieReview.bat 2012 ragini_mms_2
 
 rem call createPerMovieReview.bat 2013 goliyon_ki_raasleela_ram_leela
 
-call createPerMovieReview.bat 2014 ek_villain
+call createPerMovieReview.bat 2014 hate_story_2
+
+call createPerMovieReview.bat 2015 jazbaa
+
+
+
 
 
 

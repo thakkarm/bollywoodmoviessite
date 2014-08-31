@@ -79,6 +79,7 @@ call create_filmography_per_person.bat actress kareena_kapoor
 call create_filmography_per_person.bat actress karishma_tanna
 call create_filmography_per_person.bat actress kangna_ranaut
 call create_filmography_per_person.bat actress kavita_radheshyam
+call create_filmography_per_person.bat actress kiara_advani
 call create_filmography_per_person.bat actress kim_sharma
 call create_filmography_per_person.bat actress koena_mitra
 call create_filmography_per_person.bat actress konkona_sen_sharma

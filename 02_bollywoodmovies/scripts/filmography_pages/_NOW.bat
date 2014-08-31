@@ -6,7 +6,7 @@ REM %1 == top level direcotry name, ex: actress
 REM %2 == actress name
 REM --------------------------------------------------------------
 
-call create_filmography_per_person.bat actress aaradhya_bachchan
+call create_filmography_per_person.bat actress kiara_advani
 
 call create_filmography_per_person.bat actor arjun_kapoor
 
