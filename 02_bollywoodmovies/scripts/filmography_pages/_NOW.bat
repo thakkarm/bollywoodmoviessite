@@ -8,7 +8,7 @@ REM --------------------------------------------------------------
 
 call create_filmography_per_person.bat actress kiara_advani
 
-call create_filmography_per_person.bat actor arjun_kapoor
+call create_filmography_per_person.bat actor gautam_gulati
 
 rem call create_filmography_per_person.bat music_director ar_rahman
 

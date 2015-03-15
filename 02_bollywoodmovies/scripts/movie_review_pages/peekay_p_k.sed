@@ -1,8 +1,8 @@
 s|TAG_META_MOVIE_NAME|Peekay_P_K|g
 s|TAG_FILENAME_YEAR|2014|g
-s|TAG_GENRE|0|g
+s|TAG_GENRE|Comdey|g
 #
-s|TAG_MOVIE_RELEASE_DATE|6 June 2014|g
+s|TAG_MOVIE_RELEASE_DATE|19 December 2014|g
 s|TAG_MOVIE_DIRECTED_BY|Rajkumar Hirani|g
 #
 s|TAG_FILENAME_MOVIE_NAME|peekay_p_k|g
@@ -29,10 +29,10 @@ s|TAG_MOVIE_LYRICS_BY||g
 s|TAG_MOVIE_LYRICS_LINK_BY||g
 #
 # name of song and sung by
-s|TAG_MOVIE_SONG_1||g
-s|TAG_MOVIE_SONG_2||g
-s|TAG_MOVIE_SONG_3||g
-s|TAG_MOVIE_SONG_4||g
+s|TAG_MOVIE_SONG_1|Tharki Chokro By Swaroop Khan|g
+s|TAG_MOVIE_SONG_2|Love is a waste of time By Sonu Nigam, Shreya Ghoshal|g
+s|TAG_MOVIE_SONG_3|Nanga Punga Dost By Shreya Ghoshal|g
+s|TAG_MOVIE_SONG_4|Chaar Kadam By Shaan, Shreya Ghoshal<BR>Bhagwan Hai Kahan Re Tu By Sonu Nigam<BR>Dil Darbadar By Ankit Tiwari|g
 #
 s|TAG_SHOOTING_LOCATIONS||g
 #
@@ -45,8 +45,8 @@ s|TAG_MP3_1|Google Music Search|g
 #
 s|TAG_MAIN_SYNOPSIS_1||g
 #
-s|TAG_MOVIE_RATING||g
-s|TAG_REVIEW_DATE||g
+s|TAG_MOVIE_RATING|04_5|g
+s|TAG_REVIEW_DATE|20 December 2014|g
 #
 s|TAG_MAIN_REVIEW_1||g
 s|TAG_MAIN_REVIEW_2||g

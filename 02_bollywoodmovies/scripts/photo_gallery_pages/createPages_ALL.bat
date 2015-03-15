@@ -277,6 +277,8 @@ call createPerPerson_V1.bat actor emraan_hashmi
 call createPerPerson_V1.bat actor farhan_akhtar
 call createPerPerson_V1.bat actor fardeen_khan
 
+call createPerPerson_V1.bat actor gautam_gulati
+
 call createPerPerson_V1.bat actor harman_baweja
 call createPerPerson_V1.bat actor hrithik_roshan
 
