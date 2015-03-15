@@ -1,6 +1,6 @@
-call createPerPerson_V1.bat actress kiara_advani
+call createPerPerson_V1.bat actress karishma_tanna
 
-call createPerPerson_V1.bat actor arjun_kapoor
+call createPerPerson_V1.bat actor gautam_gulati
 
 rem call createPerPerson_V1.bat music_director ar_rahman
 
