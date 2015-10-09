@@ -722,6 +722,8 @@ REM --------------------------------------------------------------
 REM Year 2015
 REM --------------------------------------------------------------
 
+call createPerMovieReview.bat 2015 dilwale
+
 call createPerMovieReview.bat 2015 jazbaa
 
 call createPerMovieReview.bat 2015 madamji
@@ -738,6 +740,8 @@ call createPerMovieReview.bat 2015 wazir
 REM --------------------------------------------------------------
 REM Year 2016
 REM --------------------------------------------------------------
+
+call createPerMovieReview.bat 2016 ae_dil_hai_mushkil
 
 call createPerMovieReview.bat 2016 mohenjo_daro
 

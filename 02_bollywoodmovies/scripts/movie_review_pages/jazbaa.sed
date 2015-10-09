@@ -2,11 +2,11 @@ s|TAG_META_MOVIE_NAME|Jazbaa|g
 s|TAG_FILENAME_YEAR|2015|g
 s|TAG_GENRE|Drama|g
 #
-s|TAG_MOVIE_RELEASE_DATE|2015|g
+s|TAG_MOVIE_RELEASE_DATE|9 October 2015|g
 s|TAG_MOVIE_DIRECTED_BY|Sanjay Gupta|g
 #
 s|TAG_FILENAME_MOVIE_NAME|jazbaa|g
-s|TAG_IMAGE_NAME|coming_soon|g
+s|TAG_IMAGE_NAME|jazbaa|g
 #
 s|TAG_ALT_MOVIE_NAME|Jazbaa|g
 s|TAG_TITLE_MOVIE_NAME|Jazbaa|g
@@ -17,13 +17,13 @@ s|TAG_FILENAME_CAST_ACTOR_1|irfan_khan|g
 s|TAG_CAST_ACTRESS_1|Aishwarya Rai Bachchan|g
 s|TAG_FILENAME_CAST_ACTRESS_1|aishwarya_rai|g
 #
-s|TAG_CAST_ACTOR_OTHERS||g
-s|TAG_CAST_ACTRESS_OTHERS||g
+s|TAG_CAST_ACTOR_OTHERS|Jackie Shroff, Atul Kulkarni, Siddhanth Kapoor|g
+s|TAG_CAST_ACTRESS_OTHERS|Shabana Azmi|g
 #
 s|TAG_CAST_OTHERS_LINKS||g
 #
-s|TAG_MOVIE_MUSIC_BY||g
-s|TAG_MOVIE_MUSIC_LINK_BY||g
+s|TAG_MOVIE_MUSIC_BY|Pritam|g
+s|TAG_MOVIE_MUSIC_LINK_BY|<A ALT="" TITLE="Pritam" HREF="http://www.bollywoodmovies.us/music_director/pritam/bollywood_pritam.html">Pritam</A>, |g
 #
 s|TAG_MOVIE_LYRICS_BY||g
 s|TAG_MOVIE_LYRICS_LINK_BY||g

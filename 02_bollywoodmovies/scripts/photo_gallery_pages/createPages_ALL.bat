@@ -169,6 +169,7 @@ call createPerPerson_V1.bat actress pratyusha_banerjee
 call createPerPerson_V1.bat actress priyanka_chopra
 call createPerPerson_V1.bat actress priyanka_kothari
 
+call createPerPerson_V1.bat actress radhika_apte
 call createPerPerson_V1.bat actress rakhi_sawant
 call createPerPerson_V1.bat actress rajshri_thakur
 call createPerPerson_V1.bat actress raveena_tandon

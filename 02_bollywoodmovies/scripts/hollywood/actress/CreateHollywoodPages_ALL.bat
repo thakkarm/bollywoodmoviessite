@@ -6,11 +6,11 @@ REM echo on
 REM -----------------------------------------------------------------------------------------
 REM Need to convert the movie photo template to hollywood photo tempate
 REM -----------------------------------------------------------------------------------------
-F:\__site\tools\ssed.exe -f to_hollywood.sed template_photo_gallery_page.html > template_hollywood_photo_gallery_page.html
-F:\__site\tools\ssed.exe -f to_hollywood.sed template_biography.html > template_hollywood_biography.html
-F:\__site\tools\ssed.exe -f to_hollywood.sed template_latest_news.html > template_hollywood_latest_news.html
+C:\02_Sites\tools\ssed.exe -f to_hollywood.sed template_photo_gallery_page.html > template_hollywood_photo_gallery_page.html
+C:\02_Sites\tools\ssed.exe -f to_hollywood.sed template_biography.html > template_hollywood_biography.html
+C:\02_Sites\tools\ssed.exe -f to_hollywood.sed template_latest_news.html > template_hollywood_latest_news.html
 
-F:\__site\tools\ssed.exe -f to_hollywood.sed template_filmography_page.html > template_hollywood_filmography.html 
+C:\02_Sites\tools\ssed.exe -f to_hollywood.sed template_filmography_page.html > template_hollywood_filmography.html 
 
 
 REM --------------------------------------------------------------

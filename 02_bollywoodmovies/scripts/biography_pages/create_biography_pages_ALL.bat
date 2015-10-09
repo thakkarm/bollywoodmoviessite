@@ -145,6 +145,7 @@ call create_biography_per_person.bat actress pratyusha_banerjee
 call create_biography_per_person.bat actress priyanka_chopra
 call create_biography_per_person.bat actress preity_zinta
 
+call create_biography_per_person.bat actress radhika_apte
 call create_biography_per_person.bat actress rakhi_sawant
 call create_biography_per_person.bat actress rajshri_thakur
 call create_biography_per_person.bat actress raima_sen
