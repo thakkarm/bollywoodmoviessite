@@ -1,4 +1,4 @@
-call createPerPerson_V1.bat actress radhika_apte
+call createPerPerson_V1.bat actress sunny_leone
 
 
 call createPerPerson_V1.bat actor gautam_gulati

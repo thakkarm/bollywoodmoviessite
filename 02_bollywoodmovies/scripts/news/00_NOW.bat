@@ -1,6 +1,6 @@
 cls
 echo off
 
-call create_NewsPage.bat 2015 08_31_2015
+call create_NewsPage.bat 2016 01_25_2016
 
 
