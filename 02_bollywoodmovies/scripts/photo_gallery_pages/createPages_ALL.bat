@@ -43,6 +43,7 @@ call createPerPerson_V1.bat actress bhairavi_goswami
 call createPerPerson_V1.bat actress bipasha_basu
 call createPerPerson_V1.bat actress bhagyashree
 call createPerPerson_V1.bat actress bhumika_chawla
+call createPerPerson_V1.bat actress bhumi_pednekar
 call createPerPerson_V1.bat actress brinda_parekh
 
 call createPerPerson_V1.bat actress carol_gracias
@@ -96,10 +97,12 @@ call createPerPerson_V1.bat actress kangna_ranaut
 call createPerPerson_V1.bat actress kavita_radheshyam
 call createPerPerson_V1.bat actress keerti_reddy
 call createPerPerson_V1.bat actress kiara_advani
+
 call createPerPerson_V1.bat actress kim_sharma
 call createPerPerson_V1.bat actress koena_mitra
 call createPerPerson_V1.bat actress konkona_sen_sharma
 call createPerPerson_V1.bat actress krishikha_gupta
+call createPerPerson_V1.bat actress kriti_sanon
 
 call createPerPerson_V1.bat actress laila_rouass
 call createPerPerson_V1.bat actress lakshmi_menon

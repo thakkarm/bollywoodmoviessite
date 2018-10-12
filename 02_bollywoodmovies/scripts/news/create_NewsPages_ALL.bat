@@ -356,3 +356,10 @@ call create_NewsPage.bat 2014 07_14_2014
 call create_NewsPage.bat 2014 07_21_2014
 call create_NewsPage.bat 2014 07_28_2014
 
+REM 2017 -------------------------------
+call create_NewsPage.bat 2017 02_20_2017
+call create_NewsPage.bat 2017 02_27_2017
+
+call create_NewsPage.bat 2017 03_06_2017
+
+

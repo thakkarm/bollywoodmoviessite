@@ -743,7 +743,40 @@ REM --------------------------------------------------------------
 
 call createPerMovieReview.bat 2016 ae_dil_hai_mushkil
 
+call createPerMovieReview.bat 2016 dangal
+call createPerMovieReview.bat 2016 dear_zindagi
+
 call createPerMovieReview.bat 2016 mohenjo_daro
 
 
+REM --------------------------------------------------------------
+REM Year 2017
+REM --------------------------------------------------------------
 
+call createPerMovieReview.bat 2017 badrinath_ki_dulhania
+call createPerMovieReview.bat 2017 begum_jaan
+
+call createPerMovieReview.bat 2017 padmavati
+
+call createPerMovieReview.bat 2017 raees
+
+REM --------------------------------------------------------------
+REM Year 2018
+REM --------------------------------------------------------------
+
+
+call createPerMovieReview.bat 2018 namaste_england
+
+call createPerMovieReview.bat 2018 sui_dhaaga
+
+call createPerMovieReview.bat 2018 thugs_of_hindostan
+
+
+
+REM --------------------------------------------------------------
+REM Year 2019
+REM --------------------------------------------------------------
+
+
+
+call createPerMovieReview.bat 2019 manikarnika_the_queen_of_jhansi

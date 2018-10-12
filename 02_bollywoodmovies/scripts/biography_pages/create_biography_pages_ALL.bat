@@ -33,6 +33,7 @@ call create_biography_per_person.bat actress ayesha_takia
 call create_biography_per_person.bat actress barbara_mori
 call create_biography_per_person.bat actress bhagyashree
 call create_biography_per_person.bat actress bhairavi_goswami
+call create_biography_per_person.bat actress bhumi_pednekar
 call create_biography_per_person.bat actress bipasha_basu
 call create_biography_per_person.bat actress brinda_parekh
 
@@ -85,6 +86,7 @@ call create_biography_per_person.bat actress kim_sharma
 call create_biography_per_person.bat actress koena_mitra
 call create_biography_per_person.bat actress konkona_sen_sharma
 call create_biography_per_person.bat actress krishikha_gupta
+call create_biography_per_person.bat actress kriti_sanon
 
 call create_biography_per_person.bat actress laila_rouass
 call create_biography_per_person.bat actress lakshmi_menon
